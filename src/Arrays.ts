@@ -16,7 +16,7 @@ type User={
     hasPowers:boolean;
 }
 
-const Person:User=[
+const person:User=[
     {name:"Hemant",age:34,gender:"Male",hasPowers:true},
     {name:"Arvind",age:34,gender:"Male",hasPowers:false}
 ]
